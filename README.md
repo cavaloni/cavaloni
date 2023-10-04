@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | 🎨 Front End Virtuoso | 💡 Product Maverick
 
-![Banner Image](link-to-your-banner-image-if-you-have-one.jpg)
+![Banner Image](https://ibb.co/cthw2wk)
 
 I'm an engineer with a relentless passion for building transformative web solutions. Whether it's sculpting captivating user interfaces with React, crafting robust state management with Redux, or rapidly deploying with Django, I aim to reshape the digital landscape one line of code at a time.
 
